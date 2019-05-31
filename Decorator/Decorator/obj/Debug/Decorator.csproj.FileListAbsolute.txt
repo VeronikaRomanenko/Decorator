@@ -1,0 +1,6 @@
+D:\Вероника Романенко\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\Вероника Романенко\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\Вероника Романенко\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\Вероника Романенко\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\Вероника Романенко\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\Вероника Романенко\Decorator\Decorator\obj\Debug\Decorator.pdb
